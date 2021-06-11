@@ -9,4 +9,19 @@
 body {
     font-family: montserrat, sans-serif;
     font-weight: 300;
+    color:grey;
+}
+
+/* Headings and Logo */
+
+h1, h2 {
+    font-family: Raleway, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: Black;
+}
+
+#Studio {
+    float: left;
+    font-size: 260%;
 }

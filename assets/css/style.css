@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Raleway&display=swap');
+
+* {
+    border: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: montserrat, sans-serif;
+    font-weight: 300;
 }

@@ -15,6 +15,7 @@ body {
 img {
     height: 100px;
     vertical-align: middle;
+    text-decoration: none;
 }
 
 /* Headings and Logo */
@@ -24,12 +25,15 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: Black;
+    text-decoration: none;
 }
 
 #logo-text {
+    float: none;
     font-size: 110%;
     width: 20%;
     color: grey;
+    text-decoration: none;
 }
 
 img {
@@ -37,6 +41,44 @@ img {
     height: 100px;
     margin-left: 3%;
 }
+
+
+/* Navigation Links*/
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 3px;
+}
+
+#menu, #logo-text {
+    line-height: 75%;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 3%;
+}
+
+#menu a {
+    text-decoration: none;
+    color: grey;
+}
+
+#menu a {
+    text-decoration: none;
+    color: grey;
+}
+
+#menu a:hover {
+    color: black;
+}
+
+.active {
+    color: black;
+    border-bottom: 1px solid black;
+}
+
 
 
 

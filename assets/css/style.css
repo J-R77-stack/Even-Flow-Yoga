@@ -79,6 +79,13 @@ img {
     border-bottom: 1px solid black;
 }
 
+/*hero-image*/
 
+#hero-image {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    background: url(../images/yoga\ studio\ small.jpg) no-repeat center center;
+}
 
 

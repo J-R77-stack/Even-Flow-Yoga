@@ -16,3 +16,27 @@ img {
     height: 100px;
     vertical-align: middle;
 }
+
+/* Headings and Logo */
+
+h1, h2 {
+    font-family: Raleway, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: Black;
+}
+
+#logo-text {
+    font-size: 110%;
+    width: 20%;
+    color: grey;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin-left: 3%;
+}
+
+
+

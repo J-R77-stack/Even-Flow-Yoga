@@ -160,5 +160,62 @@ img {
     margin: 0 auto;
 }
 
+/* Wellbeing  and center image */
+
+#wellbeing {
+    margin: 20px 0;
+    text-align: center;
+    font-size: 200%;
+}
+
+#center-circle-container {
+    width: 300px;
+    height: 350px;
+    padding: 30px;
+    border-style: none;
+    border-color: none;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#center-circle-cover-bg {
+    background: url(../images/ashtanga.jpg) no-repeat center bottom;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#center-text {
+    text-align: center;
+}
+
+/* right-text and image */
+
+#right-circle-container {
+    width: 300px;
+    height: 350px;
+    padding: 30px;
+    border-style: none;
+    border-color: none;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+    float: right;
+}
+
+#right-circle-cover-bg {
+    background: url(../images/meditation.jpg) no-repeat center right;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#right-text {
+    text-align: center;
+}
+
+
+
+
+
 
 

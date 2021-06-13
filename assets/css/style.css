@@ -65,11 +65,6 @@ img {
     color: grey;
 }
 
-#menu a {
-    text-decoration: none;
-    color: grey;
-}
-
 #menu a:hover {
     color: black;
 }
@@ -116,7 +111,6 @@ img {
 }
 
 .box {
-    font-size: 80%;
     font-family: Raleway;
     text-transform: none;
     text-decoration: none;
@@ -132,8 +126,8 @@ img {
     padding-top: 5px;
     padding-left: 5px;
     padding-right: 5px;
-        
-
+    font-size: 80%;
+    
     position: absolute;
 }
 
@@ -163,7 +157,7 @@ img {
 /* Wellbeing  and center image */
 
 #wellbeing {
-    margin: 20px 0;
+    margin: 30px 0;
     text-align: center;
     font-size: 200%;
 }
@@ -199,7 +193,6 @@ img {
     border-color: none;
     border-width: 1px;
     border-radius: 50%;
-    margin: 0 auto;
     float: right;
 }
 
@@ -211,7 +204,51 @@ img {
 
 #right-text {
     text-align: center;
+    float: right;
 }
+
+/* left-text and image */
+
+#left-circle-container {
+    width: 300px;
+    height: 350px;
+    padding: 30px;
+    border-style: none;
+    border-color: none;
+    border-width: 1px;
+    border-radius: 50%;
+    float: left;
+}
+
+#left-circle-cover-bg {
+    background: url(../images/beginners\ yoga.jpg) no-repeat center left;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#left-text {
+    text-align: center;
+    float: left;
+}
+
+.step {
+    text-decoration: none;
+    
+}
+
+#beginners {
+    font-size: 100%;
+    font-family: Raleway;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    width: 300px;
+    height: 30px;
+    background-color: rgba(56, 190, 200, 0.17);
+    bottom: 100px;
+    left: 10px;
+    position: relative;
+}
+
 
 
 

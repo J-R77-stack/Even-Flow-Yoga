@@ -12,13 +12,7 @@ body {
     color:black;
 }
 
-img {
-    height: 100px;
-    vertical-align: middle;
-    text-decoration: none;
-}
-
-/* Headings and Logo */
+/* Header and Logo */
 
 h1, h2 {
     font-family: Raleway, sans-serif;
@@ -28,12 +22,8 @@ h1, h2 {
     text-decoration: none;
 }
 
-#logo-text {
-    float: none;
-    font-size: 110%;
-    width: 20%;
-    color: grey;
-    text-decoration: none;
+header {
+    height: 150px;
 }
 
 img {
@@ -42,37 +32,8 @@ img {
     margin-left: 3%;
 }
 
-
 /* Navigation Links*/
 
-#menu {
-    font-size: 110%;
-    letter-spacing: 3px;
-}
-
-#menu, #logo-text {
-    line-height: 75%;
-}
-
-#menu li {
-    float: right;
-    list-style-type: none;
-    margin-right: 3%;
-}
-
-#menu a {
-    text-decoration: none;
-    color: grey;
-}
-
-#menu a:hover {
-    color: black;
-}
-
-.active {
-    color: black;
-    border-bottom: 1px solid black;
-}
 
 /*hero-image and cover text*/
 

@@ -18,21 +18,46 @@ h1, h2 {
     font-family: Raleway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: Black;
+    color: black;
     text-decoration: none;
 }
 
-header {
-    height: 150px;
-}
 
-img {
-    width: 100px;
-    height: 100px;
-    margin-left: 3%;
+
+#logo-text {
+    float: left;
+    font-size: 280%;
+    margin-left: 30px;
 }
 
 /* Navigation Links*/
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: grey;
+}
+
+#menu a:hover {
+    color: black;
+    border-bottom: 1px solid black;
+}
+
+.active {
+    border-bottom: 1px solid black;
+}
+
 
 
 /*hero-image and cover text*/
@@ -248,9 +273,7 @@ img {
 
 /* footer */
 
-footer {
-    height: 150px;
-}
+
 
 .social-links {
     text-align: center;

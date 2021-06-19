@@ -59,6 +59,32 @@
             <td>Hatha Yoga</td><td>Live Stream</td><td>Wednesday 6:30pm</td>
         </tr>
     </table>
+    <br>
+    <form action="#" method="post"> 
+        <fieldset>
+            <legend ><h2>Booking Form</h2></legend>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name">
+        </fieldset>
+        <fieldset>
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" name="email">
+        </fieldset>
+        <fieldset>
+            <label for="class">Which Class</label>
+        <input type="text" id="which-class" list="class" name="which-class">
+        <datalist id="class">
+            <option value="Beginners Yoga"></option>
+            <option value="Meditation"></option>
+            <option value="Astanga Yoga"></option>
+            <option value="Pregnancy Yoga"></option>
+            <option value="Hatha Yoga"></option>
+        </datalist>
+        <br>
+        <button type="submit" value="submit"><strong>Submit</strong></button>
+        <input type="reset" value="Reset form">
+    </fieldset>
+    </form>
     <footer>
         <ul class="social-links"> 
             <li>

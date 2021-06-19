@@ -26,7 +26,7 @@ h1, h2, {
 #logo-text {
     float: left;
     font-size: 280%;
-    margin-left: 30px;
+    margin-left: 90px;
     text-decoration: none;
     color: black;
 }
@@ -35,13 +35,13 @@ h1, h2, {
 
 #menu {
     font-size: 110%;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 90px;
     margin-top: 10px;
 }
 
@@ -330,5 +330,40 @@ h1, h2, {
     text-decoration: none;
     color: black;
 }
+
+/* schedule */
+
+.studio-sched {
+    clear: both;
+    padding-top: 30px;
+    margin-left: 90px;
+}
+
+table {
+	width: 90%;
+    margin-left: 90px;
+}
+
+tr {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+tr, th, td {
+	text-align: left;
+}
+
+th, td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.table-title {
+    text-transform: uppercase;
+    background-color: rgba(63, 213, 162, 0.97);
+}
+
+
+
 
 

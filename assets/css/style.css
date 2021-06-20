@@ -365,15 +365,28 @@ th, td {
 
 /* booking-form*/
 
-fieldset {
-    width: 33%;
-    margin-left: 650px;
-
+.contain {
+    margin-left: 30px;
 }
 
-legend {
-    border: black;
+.booking-box {
+    background:white;
+    display: flex;
+    margin-left: 90px;
+    margin-right: 90px;
 }
+
+.message-left {
+    flex-basis: 60%;
+    padding: 40px, 60px;
+}
+
+.booking-right {
+    flex-basis: 40%;
+    padding: 40px, 40px;
+    background: rgba(63, 213, 162, 0.97);
+}
+
 
 /* contact and map */
 

@@ -62,11 +62,41 @@
     <br>
     <div class="contain">
         <div class="booking-box">
-            <div class="message-left">
-                <h3>Ask us a Question</h3>
+            <div class="booking-left">
+                <h3>Book A Class</h3>
+                <form action="#" method="post">
+                    <div class="input-row">
+                    <div class="input-group">
+                    <label>Name</label>
+                    <input type="text" placeholder="Johnny Ramsay">
+                </div>
+                <div class="input-group">
+                    <label>Phone</label>
+                    <input type="text" placeholder="+44 123 456 789">
+                </div>
+                <div class="input-group">
+                    <label>Email</label>
+                    <input type="email" placeholder="+evenflowyoga@contact.com">
+                </div>
+                <label for="class">Which Class</label>
+        <input type="text" id="which-class" list="class" name="which-class">
+        <datalist id="class">
+            <option value="Beginners Yoga"></option>
+            <option value="Meditation"></option>
+            <option value="Astanga Yoga"></option>
+            <option value="Pregnancy Yoga"></option>
+            <option value="Hatha Yoga"></option>
+        </datalist>
+                </div>
+                <label>Message</label>
+                <textarea rows="5" placeholder="Your Message"></textarea>
+                <button type="submit">SEND</button>
+                </form>
             </div>
-            <div class="booking-right">
-                <h3>Book a Class</h3>
+            <div class="picture-right">
+                <p>
+                    <img src="assets/images/buddha.jpg" alt="buddha with candles">
+                </p>
             </div>
         </div>
     </div>

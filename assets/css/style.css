@@ -485,6 +485,9 @@ button a {
     border: none;
 }
 
- 
-            
+ /* Media queries */
+
+/* For larger to medium screen size from 1200px wide and dowm */ 
+ @media screen and (max-width: 1200px) {
+   
             

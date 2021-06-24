@@ -76,7 +76,7 @@ h1, h2, {
 #welcome-text {
     font-size: 100%;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
     width: 360px;
     height: 70px;
     padding-top: 10px;
@@ -87,7 +87,7 @@ h1, h2, {
     bottom: 300px;
     left: 90px;
 
-    position: absolute;
+    position: relative;
 
 }
 
@@ -109,7 +109,7 @@ h1, h2, {
     padding-right: 5px;
     font-size: 80%;
     
-    position: absolute;
+    position: relative;
 }
 
 /* wellbeing links*/
@@ -502,6 +502,12 @@ button a {
         margin-bottom: 30px;
     }
     #welcome-text {
-
+        bottom: 590px;
+        left: 30px;
     }
+    .box {
+        left: 320px;
+        bottom: 120px;
+    }
+
  }    

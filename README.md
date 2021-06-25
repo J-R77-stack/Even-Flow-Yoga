@@ -72,4 +72,26 @@ Even Flow Yoga is a Yoga studio based in London, England. It is intended to help
 * Add an interactive booking system so members can see if classes are available.
 * Add videos of recorded classes and links to live classes within the members area.
 * Add information about the Yoga teachers
-* Add a discount and special offer area/section
+* Add a discount and special offer area/section.
+-----
+-----
+## Technologies Used
+------
+### Languages
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+### Libraries
+* [Google Fonts](https://fonts.google.com/)
+* [Font Awesome](https://fontawesome.com/)
+* [rgbacolorpicker](https://rgbacolorpicker.com/)
+
+### Tools
+* [Gitpod](https://www.gitpod.io/)
+* [Github](https://github.com/)
+* [Balsamiq](https://balsamiq.com/)
+
+-------
+--------
+## Testing
+------

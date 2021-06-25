@@ -115,3 +115,16 @@ Even Flow Yoga is a Yoga studio based in London, England. It is intended to help
 --------
 ## Testing
 ------
+###
+First I asked friends and family to look at the website and give me feed back on any issues they encountered with links and fuctionality. 
+* Then I ran the code through [W£C Validator](https://validator.w3.org/) and these isssues were found and fixed -
+1. index.html page
+ 
+ <img src="assets/images/Screenshot code 1.png">
+
+ 2. about.html page
+
+ <img src="assets/images/Screenshot code 2.png">
+   
+
+

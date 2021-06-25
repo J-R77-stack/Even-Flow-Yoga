@@ -117,7 +117,7 @@ Even Flow Yoga is a Yoga studio based in London, England. It is intended to help
 ------
 ###
 First I asked friends and family to look at the website and give me feed back on any issues they encountered with links and fuctionality. 
-* Then I ran the code through [W£C Validator](https://validator.w3.org/) and these isssues were found and fixed -
+* Then I ran the code through [W3C Validator](https://validator.w3.org/) and these isssues were found and fixed -
 1. index.html page
  
  <img src="assets/images/Screenshot code 1.png">
@@ -126,5 +126,15 @@ First I asked friends and family to look at the website and give me feed back on
 
  <img src="assets/images/Screenshot code 2.png">
    
+3. schedule.html page
 
+<img src="assets/images/Screenshot code 3.png">
+<img src="assets/images/Screenshot code 4.png">
 
+4 contact.html page
+
+<img src="assets/images/Screenshot code 5.png">
+
+* CSS code ran through [W3C CSS Validator](https://validator.w3.org)   and these isssues were found and fixed -
+
+<img src="assets/images/Screenshot CSS Code.png">

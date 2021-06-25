@@ -8,6 +8,12 @@ Even Flow Yoga is a Yoga studio based in London, England. It is intended to help
 -----
 ## Features
 -----
+### Background Image
+
+* The background image used throughout the whole site is from [cool backgrounds](https://coolbackgrounds.io)
+
+<img src="assets/images/cool-background.png">
+
 ###  Logo and Navigation Bar
 * The logo is on every page. By clicking on the Logo the user is able to navigate back to the home page at any point.
 * The Navigation bar features 4 navigation links - Home, About, Schedule and Contact. They feature on every page and allow the user to navigate the site easily.
@@ -38,3 +44,11 @@ Even Flow Yoga is a Yoga studio based in London, England. It is intended to help
 * The footer is available on every page of the website.
 
 <img src="assets/images/Screenshot social media.png">
+
+### The About Page
+* The About page provides info about the studio and pictures of the classes.
+* This page also provides a link at the bottom to the schedule page for easy and quick navigation.
+* This is a very valuble page for the user as it shows what the studio is like inside and gives them an idea of what the classes and atmosphere is like.
+
+<img src="assets/images/Screenshot about.png">
+

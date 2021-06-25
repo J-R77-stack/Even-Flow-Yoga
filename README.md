@@ -1,3 +1,4 @@
+
 # Even Flow Yoga
 Even Flow Yoga is a Yoga studio based in London, England. It is intended to help ordinary people become inspired to take up Yoga and Meditation. It is intend to supply information about the differnt classes in an easy and straight forward way, so people can book straight away and not feel intimidated by the site or discriptions of the classes.
 
@@ -7,6 +8,12 @@ Even Flow Yoga is a Yoga studio based in London, England. It is intended to help
 -----
 ## Features
 -----
+### Background Image
+
+* The background image used throughout the whole site is from [cool backgrounds](https://coolbackgrounds.io)
+
+<img src="assets/images/cool-background.png">
+
 ###  Logo and Navigation Bar
 * The logo is on every page. By clicking on the Logo the user is able to navigate back to the home page at any point.
 * The Navigation bar features 4 navigation links - Home, About, Schedule and Contact. They feature on every page and allow the user to navigate the site easily.
@@ -18,4 +25,75 @@ Even Flow Yoga is a Yoga studio based in London, England. It is intended to help
 * This section also has a text overlay to welcome the user to the studio site and also a **learn more** button which navigates to the About page so the user can move through the site quicker if they so wish.
 
 <img src="assets/images/Screenshot of EFYoga Studio.png">
+
+### The Wellbeing Section
+* This section features a header to make the user feel apart of the Even Flow Yoga family and also images of the most popular classes.
+* The text under the images display the benefits of each class and the user can click on the text to naviagte to more infomation about each class. Once there they can book a class by clicking on the **Book Now** button which will take them to the Schedule page.
+
+<img src="assets/images/Screenshot of wellbeing section.png">
+
+<img src="assets/images/Screenshot beginners.png">
+
+<img src="assets/images/Screenshot ash.png">
+
+<img src="assets/images/Screenshot medi.png">
+
+### The Footer
+* The footer has links to three social media sites which will open in new tabs which is great for the user experience.
+* The social media links help the user to learn more about the studio and experince the classes and atmosphre before commiting to anything
+* The footer is available on every page of the website.
+
+<img src="assets/images/Screenshot social media.png">
+
+### The About Page
+* The About page provides info about the studio and pictures of the classes.
+* This page also provides a link at the bottom to the schedule page for easy and quick navigation.
+* This is a very valuble page for the user as it shows what the studio is like inside and gives them an idea of what the classes and atmosphere is like.
+
+<img src="assets/images/Screenshot about.png">
+
+### The Schedule Page
+* This page allows the user to decide on and sign up for a class. It provides information on the differnt classes and when they are on.
+* The user is able to fill in their info and pick a class to attend in a form as well as being able to ask a question.
+* Once the form is submitted the user is navigated to a page confiming the class is booked.
+
+<img src="assets/images/Screenshot sched.png">
+
+<img src="assets/images/Screenshot book.png">
+
+### The Contact Page
+* The page allows the user to find the studio on an interactive google map. It allow provides the studios address, email and phone number.
+
+<img src="assets/images/Screenshot contact.png">
+
+------
+## Future Features
+* Include a login/sign up page for members.
+* Add an interactive booking system so members can see if classes are available.
+* Add videos of recorded classes and links to live classes within the members area.
+* Add information about the Yoga teachers
+* Add a discount and special offer area/section.
+-----
+-----
+## Technologies Used
+------
+### Languages
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+### Libraries
+* [Google Fonts](https://fonts.google.com/)
+* [Font Awesome](https://fontawesome.com/)
+* [rgbacolorpicker](https://rgbacolorpicker.com/)
+
+### Tools
+* [Gitpod](https://www.gitpod.io/)
+* [Github](https://github.com/)
+* [Balsamiq](https://balsamiq.com/)
+
+-------
+--------
+## Testing
+------
+
 

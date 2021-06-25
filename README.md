@@ -52,7 +52,7 @@ Even Flow Yoga is a Yoga studio based in London, England. It is intended to help
 
 <img src="assets/images/Screenshot about.png">
 
-### The Schedule page
+### The Schedule Page
 * This page allows the user to decide on and sign up for a class. It provides information on the differnt classes and when they are on.
 * The user is able to fill in their info and pick a class to attend in a form as well as being able to ask a question.
 * Once the form is submitted the user is navigated to a page confiming the class is booked.
@@ -60,4 +60,10 @@ Even Flow Yoga is a Yoga studio based in London, England. It is intended to help
 <img src="assets/images/Screenshot sched.png">
 
 <img src="assets/images/Screenshot book.png">
+
+### The Contact Page
+* The page allows the user to find the studio on an interactive google map. It allow provides the studios address, email and phone number.
+
+<img src="assets/images/Screenshot contact.png">
+
 

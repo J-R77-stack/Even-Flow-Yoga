@@ -138,3 +138,19 @@ First I asked friends and family to look at the website and give me feed back on
 * CSS code ran through [W3C CSS Validator](https://validator.w3.org)   and these isssues were found and fixed -
 
 <img src="assets/images/Screenshot CSS Code.png">
+
+-----
+-----
+## Deployment
+
+This Website was depolyed on Github pages.
+
+1. Select the setting tab in the Github repository page.
+
+2. Scroll down and click on the new dedicated tag line for Github pages.
+
+3. From the source drop down menu select the master branch and click save.
+
+4. The page will automatically refresh and indicate whether there has been a successful deployment.
+
+The live link to the webpage can be found here - [Even Flow Yoga](https://j-r77-stack.github.io/Even-Flow-Yoga/)

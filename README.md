@@ -66,4 +66,10 @@ Even Flow Yoga is a Yoga studio based in London, England. It is intended to help
 
 <img src="assets/images/Screenshot contact.png">
 
-
+------
+## Future Features
+* Include a login/sign up page for members.
+* Add an interactive booking system so members can see if classes are available.
+* Add videos of recorded classes and links to live classes within the members area.
+* Add information about the Yoga teachers
+* Add a discount and special offer area/section

@@ -154,3 +154,17 @@ This Website was depolyed on Github pages.
 4. The page will automatically refresh and indicate whether there has been a successful deployment.
 
 The live link to the webpage can be found here - [Even Flow Yoga](https://j-r77-stack.github.io/Even-Flow-Yoga/)
+
+------
+------
+## Credits
+--------
+### Media
+* The images for the project were taken from [shutterstock](https://www.shutterstock.com/)
+
+------
+
+### Content
+* The text info for the beginers yoga, Ashtanga and meditation pages
+were taken from [wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+* The map was taken from [Google maps](https://www.google.com/maps)

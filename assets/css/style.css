@@ -383,8 +383,46 @@ button a {
     .flex-grid {
         display: block;
       }
+
+      .box {
+        left: 150px;
+        bottom: 600px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        font-size: 100%;
+        text-align: center;
+    }
+
+    .booking-box {
+        display: block;
+    }
+
+    table {
+        width: 97%;
+        margin-left: 10px;
+    }
+
  }    
 
+ /* For screen size from 950px wide and dowm */ 
+
+ @media (max-width: 950px) {
+ 
+    .card {
+     width: 100%;
+ }
+}
+ /* For screen size from 650px wide and dowm */ 
+ @media (max-width: 650px) {
+
+ #menu li {
+    list-style-type: none;
+    margin-right: 90px;
+    margin-top: 10px;
+    float: none;
+}
+}
 /* For small screen size from 400px wide and dowm */ 
 
  @media (max-width: 400px) {
@@ -394,15 +432,15 @@ button a {
     #hero-image {
         padding-left: 100px;
     }
-    .box {
+    /* .box {
         left: 150px;
         bottom: 600px;
         padding-left: 20px;
-        /* padding-top: 20px; */
         padding-bottom: 20px;
         padding-right: 20px;
         font-size: 100%;
         text-align: center;
-    }
-  }
+    } */
+
+  } 
 

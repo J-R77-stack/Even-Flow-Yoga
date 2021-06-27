@@ -1,492 +1,472 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Raleway&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Raleway&display=swap");
 
 * {
-    margin: 0;
-    padding: 0;
-    border: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 
 body {
-    font-family: montserrat, sans-serif;
-    font-weight: 300;
-    color:black;
-    background: url(../images/cool-background.png);
+  font-family: montserrat, sans-serif;
+  font-weight: 300;
+  color: black;
+  background: url(../images/cool-background.png);
 }
 
 /* Header and Logo */
 
-h1,  {
-    font-family: Raleway, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    text-decoration: none;
-    color; black;
+h1 {
+  font-family: Raleway, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-decoration: none;
 }
 
 #logo-text {
-    float: left;
-    font-size: 280%;
-    margin-left: 90px;
-    text-decoration: none;
-    color: black;
-    margin-bottom: 10px;
+  float: left;
+  font-size: 280%;
+  margin-left: 90px;
+  text-decoration: none;
+  color: black;
+  margin-bottom: 10px;
 }
 
 /* Navigation Links*/
 
 #menu {
-    font-size: 110%;
-    /* letter-spacing: 1px; */
+  font-size: 110%;
 }
 
 #menu li {
-    float: right;
-    list-style-type: none;
-    margin-right: 90px;
-    margin-top: 10px;
+  float: right;
+  list-style-type: none;
+  margin-right: 90px;
+  margin-top: 10px;
 }
 
 #menu a {
-    text-decoration: none;
-    color: grey;
+  text-decoration: none;
+  color: grey;
 }
 
 #menu a:hover {
-    color: black;
-    border-bottom: 1px solid black;
+  color: black;
+  border-bottom: 1px solid black;
 }
 
 .active {
-    border-bottom: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 /*hero-image and cover text*/
 
 #welcome-text h2 .box {
-    color: white;
-    position: relative;
+  color: white;
+  position: relative;
 }
 
 #hero-image {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    background: linear-gradient(45deg, #0000006e, transparent), url(../images/rsz_empty_yoga_studio.jpg) no-repeat center center;
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  background: linear-gradient(45deg, #0000006e, transparent),
+    url(../images/rsz_empty_yoga_studio.jpg) no-repeat center center;
 }
 
 #welcome-text {
-    font-size: 100%;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    width: 360px;
-    height: 70px;
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    background-color: rgba(56, 190, 200, 0.17);
-    color: white;
-
-    bottom: 300px;
-    left: 90px;
-
-    position: relative;
-
+  font-size: 100%;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  width: 360px;
+  height: 70px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgba(56, 190, 200, 0.17);
+  color: white;
+  bottom: 300px;
+  left: 90px;
+  position: relative;
 }
 
 .box {
-    font-family: Raleway;
-    text-transform: none;
-    text-decoration: none;
-    color: white;
-    letter-spacing: 3px;
-    display:inline-block;
-    width: 100px;
-    height: 20px;
-    background-color:rgba(63, 213, 162, 0.97);
-    bottom: 250px;
-    left: 90px;
-    padding-top: 5px;
-    padding-left: 5px;
-    padding-right: 5px;
-    font-size: 80%;
-    
-    position: relative;
+  font-family: Raleway;
+  text-transform: none;
+  text-decoration: none;
+  color: white;
+  letter-spacing: 3px;
+  display: inline-block;
+  width: 100px;
+  height: 20px;
+  background-color: rgba(63, 213, 162, 0.97);
+  bottom: 250px;
+  left: 90px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 80%;
+  position: relative;
 }
 
 /* wellbeing links*/
 
 #wellbeing {
-    text-align: center;
-    font-size: 200%;
+  text-align: center;
+  font-size: 200%;
 }
 
 .flex-grid {
-    display: flex;
-  }
-  .col {
-    flex: 1;
-    margin-left: 30px;
-    margin-top: 30px;
-    margin-right: 30px;
-    text-align: center;
-  }
+  display: flex;
+}
+.col {
+  flex: 1;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-right: 30px;
+  text-align: center;
+}
 
-  .col h2 {
-      text-align: center;
-      margin-top: 10px;
-  }
+.col h2 {
+  text-align: center;
+  margin-top: 10px;
+}
 
-  .col a {
-      text-decoration: none;
-      color: black;
-  }
+.col a {
+  text-decoration: none;
+  color: black;
+}
 
 /* footer */
 
-
-
 .social-links {
-    text-align: center;
+  text-align: center;
 }
 
 .social-links > li {
-    display: inline;
+  display: inline;
 }
 
 .social-links i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: grey;
+  font-size: 160%;
+  margin: 1%;
+  padding: 5%;
+  color: grey;
 }
 
 /* About */
 
 #intro {
-    clear: both;
-    text-align: center;
-    padding-top: 20px;
-
+  clear: both;
+  text-align: center;
+  padding-top: 20px;
 }
 
 #intro > img {
-    width: 100%;
-    padding-top: 20px;
+  width: 100%;
+  padding-top: 20px;
 }
 
 #intro > h1 {
-    padding-bottom: 20px;
+  padding-bottom: 20px;
 }
 
 .card {
-    float: left;
-    display: inline;
-    width: 33%;
+  float: left;
+  display: inline;
+  width: 33%;
 }
 
 .view {
-    font-family: Raleway;
-    text-transform: none;
-    text-decoration: none;
-    color: black;
-    letter-spacing: 3px;
-    display:inline-block;
-    width: 250px;
-    height: 20px;
-    background-color:rgba(63, 213, 162, 0.97);
-    border:1px solid black;
-    margin-top: 30px;
+  font-family: Raleway;
+  text-transform: none;
+  text-decoration: none;
+  color: black;
+  letter-spacing: 3px;
+  display: inline-block;
+  width: 250px;
+  height: 20px;
+  background-color: rgba(63, 213, 162, 0.97);
+  border: 1px solid black;
+  margin-top: 30px;
 }
 
 .view > a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 /* schedule */
 
 .studio-sched {
-    clear: both;
-    padding-top: 30px;
-    margin-left: 90px;
+  clear: both;
+  padding-top: 30px;
+  margin-left: 90px;
 }
 
 table {
-	width: 90%;
-    margin-left: 90px;
+  width: 90%;
+  margin-left: 90px;
 }
 
 tr {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
-tr, th, td {
-	text-align: left;
+tr,
+th,
+td {
+  text-align: left;
 }
 
-th, td {
-	border: 1px solid black;
-	padding: 5px;
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
 }
 
 .table-title {
-    text-transform: uppercase;
-    background-color: rgba(63, 213, 162, 0.97);
+  text-transform: uppercase;
+  background-color: rgba(63, 213, 162, 0.97);
 }
 
 /* booking-form*/
 
 .contain {
-    margin-left: 30px;
+  margin-left: 30px;
 }
 
 .booking-box {
-    background:white;
-    display: flex;
-    margin-left: 90px;
-    margin-right: 90px;
+  background: white;
+  display: flex;
+  margin-left: 90px;
+  margin-right: 90px;
 }
 
 .booking-left {
-    flex-basis: 50%;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    padding-left: 60px;
-    padding-right: 60px;
-    background: rgba(63, 213, 162, 0.97);
+  flex-basis: 50%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 60px;
+  padding-right: 60px;
+  background: rgba(63, 213, 162, 0.97);
 }
 
 .picture-right {
-    flex-basis: 50%;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+  flex-basis: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .input-row {
-    margin-right: 50%;
-    margin-bottom: 20px;
+  margin-right: 50%;
+  margin-bottom: 20px;
 }
 
 input {
-    width: 100%;
-    border: 1px solid black;
-    padding-left: 5px;
+  width: 100%;
+  border: 1px solid black;
+  padding-left: 5px;
 }
 
 textarea {
-    width: 100%;
-    border: 1px solid black;
-    outline: none;
-    padding: 10px;
+  width: 100%;
+  border: 1px solid black;
+  outline: none;
+  padding: 10px;
 }
 
 label {
-    margin-top: 6px;
-    display: block;
+  margin-top: 6px;
+  display: block;
 }
 
 button {
-    background: black;
-    width: 100px;
-    border: none;
-    outline: none;
-    color: white;
-    height: 35px;
-    border-radius: 30px;
-    margin-top: 20px;
-    text-decoration: none;
+  background: black;
+  width: 100px;
+  border: none;
+  outline: none;
+  color: white;
+  height: 35px;
+  border-radius: 30px;
+  margin-top: 20px;
+  text-decoration: none;
 }
 
 button a {
-    text-decoration: none;
-    color: white;
+  text-decoration: none;
+  color: white;
 }
 
 .booking-left h3 {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 /* contact and map */
 
 .container {
-    margin-left: 90px;
-    padding-top: 50px;
-    clear: both;
+  margin-left: 90px;
+  padding-top: 50px;
+  clear: both;
 }
 
 .contact-box {
-    background: white;
-    display: flex;
-    margin-right: 90px;
+  background: white;
+  display: flex;
+  margin-right: 90px;
 }
 
 .contact-left {
-    flex-basis: 60%;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    padding-left: 60px;
-    padding-right: 60px;
+  flex-basis: 60%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 60px;
+  padding-right: 60px;
 }
 
 .contact-right {
-    flex-basis: 60%;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    padding-left: 40px;
-    padding-right: 40px;
-    background: rgba(63, 213, 162, 0.97);
+  flex-basis: 60%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  background: rgba(63, 213, 162, 0.97);
 }
 
 .container h2 {
-    margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 .contact-right h3 {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .contact-left h3 {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .contact-right tr td {
-    padding-top: 20px;
-    border: none;
+  padding-top: 20px;
+  border: none;
 }
 
- /* Media queries */
+/* Media queries */
 
-/* For larger to medium screen size from 1200px wide and dowm */ 
- @media screen and (max-width: 1200px) {
-   
-    #logo-text {
-        margin-left: 30px;
-        clear: left;
-    }
+/* For larger to medium screen size from 1200px wide and dowm */
+@media screen and (max-width: 1200px) {
+  #logo-text {
+    margin-left: 30px;
+    clear: left;
+  }
 
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 30px;
-    }
-    #welcome-text {
-        bottom: 590px;
-        left: 30px;
-    }
-    .box {
-        left: 320px;
-        bottom: 120px;
-    }
+  #menu {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 30px;
+  }
+  #welcome-text {
+    bottom: 590px;
+    left: 30px;
+  }
+  .box {
+    left: 320px;
+    bottom: 120px;
+  }
 
-    .flex-grid {
-        display: block;
-      }
+  .flex-grid {
+    display: block;
+  }
 
-      .box {
-        left: 150px;
-        bottom: 600px;
-        padding-left: 20px;
-        padding-bottom: 20px;
-        padding-right: 20px;
-        font-size: 100%;
-        text-align: center;
-    }
+  .box {
+    left: 150px;
+    bottom: 600px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    font-size: 100%;
+    text-align: center;
+  }
 
-    .booking-box {
-        display: block;
-    }
+  .booking-box {
+    display: block;
+  }
 
-    table {
-        width: 97%;
-        margin-left: 10px;
-    }
+  table {
+    width: 97%;
+    margin-left: 10px;
+  }
 
-    .contact-box {
-        display: block;
-        width: 90%;
-    }
+  .contact-box {
+    display: block;
+    width: 90%;
+  }
+}
 
- }    
+/* For screen size from 950px wide and dowm */
 
- /* For screen size from 950px wide and dowm */ 
+@media (max-width: 950px) {
+  .card {
+    width: 100%;
+  }
 
- @media (max-width: 950px) {
- 
-    .card {
-     width: 100%;
-    }
+  .input-row {
+    margin-right: none;
+  }
+  form {
+    width: 100%;
+  }
 
- .input-row {
-     margin-right: none;
- }
- form {
-     width: 100%;
- }
+  .booking-box {
+    margin-left: 0px;
+    margin-right: 10px;
+  }
 
- .booking-box {
-     margin-left: 0px;
-     margin-right: 10px;
- }
+  .picture-right img {
+    width: 100%;
+  }
 
- .picture-right img {
-     width: 100%;
- }
-
- .contact-box {
+  .contact-box {
     display: block;
     width: 90%%;
-}
+  }
 
-.contact-box iframe {
+  .contact-box iframe {
     width: 100%;
-}
+  }
 
-.contact-left img {
+  .contact-left img {
     width: 100%;
+  }
 }
-
-}
- /* For screen size from 650px wide and dowm */ 
- @media (max-width: 650px) {
-
- #menu li {
+/* For screen size from 650px wide and dowm */
+@media (max-width: 650px) {
+  #menu li {
     list-style-type: none;
     margin-right: 90px;
     margin-top: 10px;
     float: none;
-}
+  }
 
-.contact-right table tbody {
+  .contact-right table tbody {
     width: 100%;
-}
+  }
 
-tr, th, td {
+  tr,
+  th,
+  td {
     font-size: 10px;
+  }
 }
+/* For small screen size from 400px wide and dowm */
 
+@media (max-width: 400px) {
+  .flex-grid {
+    display: block;
+  }
+  #hero-image {
+    padding-left: 100px;
+  }
 }
-/* For small screen size from 400px wide and dowm */ 
-
- @media (max-width: 400px) {
-    .flex-grid {
-      display: block;
-    }
-    #hero-image {
-        padding-left: 100px;
-    }
-    /* .box {
-        left: 150px;
-        bottom: 600px;
-        padding-left: 20px;
-        padding-bottom: 20px;
-        padding-right: 20px;
-        font-size: 100%;
-        text-align: center;
-    } */
-
-  } 
-

@@ -304,6 +304,12 @@ button a {
   margin-bottom: 20px;
 }
 
+.book-now {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: white;
+}
+
 /* contact and map */
 
 .container {

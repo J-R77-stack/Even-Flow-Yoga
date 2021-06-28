@@ -113,6 +113,16 @@ First I asked friends and family to look at the website and give me feed back on
 
 <img src="assets/images/Screenshot CSS Code.png">
 
+Lighthouse in Chrome developer tools was used to test the page. This was done for mobile and desktop. Below are the results.
+
+<img src="assets/images/one.png">
+<img src="assets/images/two.png">
+<img src="assets/images/three.png">
+<img src="assets/images/four.png">
+<img src="assets/images/five.png">
+<img src="assets/images/six.png">
+<img src="assets/images/seven.png">
+<img src="assets/images/eight.png">
 -----
 -----
 ## Deployment

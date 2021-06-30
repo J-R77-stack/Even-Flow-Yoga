@@ -3,6 +3,18 @@ Even Flow Yoga is a Yoga studio based in London, England. It is intended to help
 
 <img src="assets/images/Screenshot of responsive sites.png">
 
+--------
+
+## Wireframes
+
+Below are some wireframes I made using [Balsamiq](https://balsamiq.com/)
+
+
+<img src="assets/images/home.png">
+<img src="assets/images/about.png">
+<img src="assets/images/schedule.png">
+<img src="assets/images/contact.png">
+
 -----
 -----
 ## Features
@@ -123,8 +135,10 @@ Lighthouse in Chrome developer tools was used to test the page. This was done fo
 <img src="assets/images/six.png">
 <img src="assets/images/seven.png">
 <img src="assets/images/eight.png">
+
 -----
 -----
+
 ## Deployment
 
 This Website was depolyed on Github pages.
@@ -159,3 +173,12 @@ The live link to the webpage can be found here - [Even Flow Yoga](https://j-r77-
 ### Content
 * The text info for the beginers yoga, Ashtanga and meditation pages
 were taken from [wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+
+-------
+
+## Acknowledgements
+This was my first time using code to build a website which I found very challenging but also alot of fun. For help and inspiration I'd like to thank:
+
+* [Code Institute](https://codeinstitute.net/) - For great walk through projects and lessons.
+* [w3schools](https://www.w3schools.com/) - A great webpage for someone beginning their journey with code.
+* My mentor for her inspiration and help.

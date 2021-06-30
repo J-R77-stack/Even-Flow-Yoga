@@ -1,5 +1,5 @@
 # Even Flow Yoga
-Even Flow Yoga is a Yoga studio based in London, England. It is intended to help ordinary people become inspired to take up Yoga and Meditation. It is intend to supply information about the differnt classes in an easy and straight forward way, so people can book straight away and not feel intimidated by the site or discriptions of the classes.
+Even Flow Yoga is a Yoga studio based in London, England. It is intended to help ordinary people become inspired to take up Yoga and Meditation. It is intend to supply information about the different classes in an easy and straight forward way, so people can book straight away and not feel intimidated by the site or discriptions of the classes.
 
 <img src="assets/images/Screenshot of responsive sites.png">
 
@@ -33,7 +33,7 @@ Below are some wireframes I made using [Balsamiq](https://balsamiq.com/)
 <img src="assets/images/Screenshot of EFYoga Studio.png">
 
 ### The Wellbeing Section
-* This section features a header to make the user feel apart of the Even Flow Yoga family and also images of the most popular classes.
+* This section features a header to make the user feel a part of the Even Flow Yoga family and also images of the most popular classes.
 * The text under the images display the benefits of each class and the user can click on the text to naviagte to more infomation about each class. Once there they can book a class by clicking on the **Book Now** button which will take them to the Schedule page.
 
 <img src="assets/images/Screenshot of wellbeing section.png">
@@ -61,11 +61,8 @@ Below are some wireframes I made using [Balsamiq](https://balsamiq.com/)
 ### The Schedule Page
 * This page allows the user to decide on and sign up for a class. It provides information on the differnt classes and when they are on.
 * The user is able to fill in their info and pick a class to attend in a form as well as being able to ask a question.
-* Once the form is submitted the user is navigated to a page confiming the class is booked.
 
 <img src="assets/images/Screenshot sched.png">
-
-<img src="assets/images/Screenshot book.png">
 
 ### The Contact Page
 * The page allows the user to find the studio on an interactive google map. It allow provides the studios address, email and phone number.
